@@ -1,142 +1,51 @@
-<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<a href="https://sarthak-mishra.vercel.app/"><img src="./assets/hero.svg" width="100%" alt="Sarthak Mishra — Full-Stack Engineer"/></a>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Sarthak%20Mishra&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=20" width="100%"/>
+  <a href="https://sarthak-mishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E0B1E?style=for-the-badge&logo=vercel&logoColor=FFD23F" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sarthakm10/"><img src="https://img.shields.io/badge/LinkedIn-0E0B1E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHJlY3QgeD0nMScgeT0nMScgd2lkdGg9JzIyJyBoZWlnaHQ9JzIyJyByeD0nNCcgZmlsbD0nI0ZGRDIzRicvPjxyZWN0IHg9JzUnIHk9JzkuNScgd2lkdGg9JzMnIGhlaWdodD0nOScgZmlsbD0nIzA3MDcwQScvPjxjaXJjbGUgY3g9JzYuNScgY3k9JzYuNScgcj0nMS44JyBmaWxsPScjMDcwNzBBJy8%2BPHBhdGggZD0nTTEwLjUgOS41aDIuOXYxLjNjLjUtLjkgMS42LTEuNiAzLTEuNiAyLjQgMCAzLjEgMS41IDMuMSAzLjl2NS40aC0zdi00LjhjMC0xLjEtLjMtMS45LTEuNC0xLjlzLTEuNi44LTEuNiAxLjl2NC44aC0zeicgZmlsbD0nIzA3MDcwQScvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/op3ARAY4Jr/"><img src="https://img.shields.io/badge/LeetCode-0E0B1E?style=for-the-badge&logo=leetcode&logoColor=FFD23F" alt="LeetCode"/></a>
+  <a href="mailto:mishrasarthak33@gmail.com"><img src="https://img.shields.io/badge/Email-0E0B1E?style=for-the-badge&logo=gmail&logoColor=FFD23F" alt="Email"/></a>
+  <a href="https://sarthak-mishra.vercel.app/Sarthak_Mishra_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-FFD23F?style=for-the-badge&logo=readdotcv&logoColor=0E0B1E" alt="Résumé"/></a>
 </p>
 
-<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Hey+there!+I'm+Sarthak+%F0%9F%91%8B;Java+Developer+%E2%98%95;Web+Developer+%F0%9F%8C%90;Solving+DSA+problems+daily+%F0%9F%A7%A0;Turning+ideas+into+real+apps+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<img src="./assets/about.svg" width="100%" alt="About Sarthak: Full-Stack Engineer at Capgemini, building Liberty Mutual's underwriting platform"/>
 
-<!-- ═══════════════ BADGES ═══════════════ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthakm10&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="profile views"/>
-  <a href="https://github.com/sarthakm10?tab=followers"><img src="https://img.shields.io/github/followers/sarthakm10?label=Followers&style=for-the-badge&color=302b63&logo=github" alt="followers"/></a>
-  <a href="https://www.linkedin.com/in/sarthakm10/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://sarthak-mishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+<a href="https://bowl-craft.vercel.app/"><img src="./assets/project-mealcraft.svg" width="100%" alt="Meal Craft — meal planner with nutrition tracking and live grocery price comparison"/></a>
+<a href="https://github.com/sarthakm10/E_Library_Management"><img src="./assets/project-shelfwise.svg" width="100%" alt="Shelfwise — full-stack library management system"/></a>
+<a href="https://sarthakm10.github.io/Nimbus/"><img src="./assets/project-nimbus.svg" width="100%" alt="Nimbus — weather site whose sky reacts to real conditions"/></a>
 
----
+<details>
+<summary><b>🎮 Bonus levels →</b></summary>
+<br/>
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-<table>
-<tr>
-<td width="55%">
+| Project | What it is | Links |
+|---|---|---|
+| **Java Fullstack Tracker** | A browser-only study tracker with 100-day beginner and 60-day interview tracks, flashcards, code exercises and DSA sets | [Live](https://java60days.vercel.app) · [Code](https://github.com/sarthakm10/java_60_days) |
+| **Java DSA Notes** | Java + DSA notes and solutions, worked through problem by problem | [Code](https://github.com/sarthakm10/Java_Notes_Kunal_DSA_PlayList) |
+| **Little Lemon** | A React restaurant site with menu and table reservations (Meta Front-End course) | [Live](https://little-lemon-website-inky.vercel.app/) · [Code](https://github.com/sarthakm10/Little_Lemon_Website) |
+| **RobotShop** | An Angular 16 storefront built while learning Angular | [Live](https://angular-learning-project-sarthakm10s-projects.vercel.app/) · [Code](https://github.com/sarthakm10/Angular-Learning-Project) |
 
-### 🧑‍💻 About Me
-
-- 🔭 Building **full-stack web apps** and **Java projects**
-- 🧠 Grinding **Data Structures & Algorithms** in Java
-- 🌱 Currently learning **React, Node.js & system design**
-- 👯 Open to **collaborations, internships & open source**
-- ⚡ Fun fact: I name my projects like startups 😄
-
-```java
-public class Sarthak {
-    String role     = "Developer";
-    String[] code   = {"Java", "JavaScript", "HTML/CSS"};
-    String[] focus  = {"DSA", "Web Dev", "Clean Code"};
-    boolean coffee  = true;
-}
-```
-
-</td>
-<td width="45%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation"/>
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-<h2 align="center">🛠️ Tech Stack</h2>
+</details>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,angular,react,nodejs,express,tailwind,mongodb,mysql,python&perline=13" />
-  </a>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,angular,react,ts,js,cpp&theme=dark" alt="Java, Spring, NestJS, Angular, React, TypeScript, JavaScript, C++"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,dynamodb,postgres,mysql,docker,githubactions,postman,vscode&theme=dark" alt="AWS, DynamoDB, PostgreSQL, MySQL, Docker, GitHub Actions, Postman, VS Code"/>
   <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel,figma,linux&perline=8" />
-  </a>
+  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FFD23F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZD0nTTcgMTdhNC41IDQuNSAwIDAgMS0uNi04Ljk2QTYgNiAwIDAgMSAxNy45IDkuMSA0IDQgMCAwIDEgMTcuNSAxN3onIGZpbGw9J25vbmUnIHN0cm9rZT0nI0ZGRDIzRicgc3Ryb2tlLXdpZHRoPScyJyBzdHJva2UtbGluZWpvaW49J3JvdW5kJy8%2BPHBhdGggZD0nTTUgMjAuNWM0LjUgMiA5LjUgMiAxNC0uNScgZmlsbD0nbm9uZScgc3Ryb2tlPScjRkZEMjNGJyBzdHJva2Utd2lkdGg9JzEuOCcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJy8%2BPC9zdmc%2B&labelColor=0E0B1E" alt="AWS Certified Cloud Practitioner"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_AZ--900-FFD23F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZD0nTTEwIDNoNUw4IDIxSDJ6JyBmaWxsPScjRkZEMjNGJy8%2BPHBhdGggZD0nTTE0LjUgOGw3LjUgMTNIOS41bDYtMi41TDEyIDEyeicgZmlsbD0nI0ZGRDIzRicgZmlsbC1vcGFjaXR5PScuNycvPjwvc3ZnPg%3D%3D&labelColor=0E0B1E" alt="Azure Fundamentals AZ-900"/>
+  <img src="https://img.shields.io/badge/Meta-Front--End_Developer-FFD23F?style=for-the-badge&logo=meta&logoColor=FFD23F&labelColor=0E0B1E" alt="Meta Front-End Developer Professional Certificate"/>
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthakm10/sarthakm10/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthakm10/sarthakm10/output/snake.svg"/>
+  <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/sarthakm10/sarthakm10/output/snake-dark.svg"/>
+</picture>
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-<h2 align="center">🚀 Featured Projects</h2>
+<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakm10&bg_color=0E0B1E&color=7A7499&line=FFD23F&point=EE4266&area=true&area_color=EE4266&hide_border=true&radius=12&title_color=E2E8F0"/>
 
-<p align="center">
-  <a href="https://github.com/sarthakm10/Nimbus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakm10&repo=Nimbus&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/sarthakm10/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakm10&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/sarthakm10/SimpleTwitterClone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakm10&repo=SimpleTwitterClone&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/sarthakm10/RealEstateScrapping">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakm10&repo=RealEstateScrapping&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/sarthakm10/E_Library_Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakm10&repo=E_Library_Management&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/sarthakm10/Java_DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakm10&repo=Java_DSA&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
+<a href="mailto:mishrasarthak33@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Thanks for visiting — say hi"/></a>
 
----
-
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthakm10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakm10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarthakm10&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF5722&currStreakLabel=A78BFA" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakm10&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7aa2f7&point=ffffff&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthakm10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
-
-<!-- ═══════════════ SNAKE ═══════════════ -->
-<h2 align="center">🐍 Watch the snake eat my contributions</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthakm10/sarthakm10/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthakm10/sarthakm10/output/snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/sarthakm10/sarthakm10/output/snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-<!-- ═══════════════ QUOTE ═══════════════ -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<!-- ═══════════════ FOOTER ═══════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%9C%A8;Don't+forget+to+drop+a+%E2%AD%90+on+my+repos!" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sarthakm10&label=PROFILE+VIEWS&color=FFD23F&style=flat-square" alt="Profile views"/></p>
